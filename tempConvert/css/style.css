@@ -1,0 +1,44 @@
+.main {
+    text-align: center;
+    margin-top: 200px;
+    border: solid 2px white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    color: white;
+}
+
+#answer {
+    margin-top: 10px;
+    width: 150px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+body {
+    background-color:cornflowerblue
+}
+
+.fahr {
+    margin-top: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#calcButton {
+    border: none;
+    background-color:floralwhite;
+    color: cornflowerblue;
+}
+
+#calcButton:hover {
+    transition: 0.2s;
+    color: orangered;
+}
+
+
